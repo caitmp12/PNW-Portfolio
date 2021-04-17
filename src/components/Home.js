@@ -1,7 +1,7 @@
 import React from "react"
 import { LInk } from "react-router-dom"
 
-const Carousel = (props) => {
+const Home = (props) => {
     return (
         <div>
             <h1>ooooh pictures</h1>
@@ -9,4 +9,4 @@ const Carousel = (props) => {
     )
 }
 
-export default Carousel;
+export default Home;
