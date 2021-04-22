@@ -11,10 +11,10 @@ const Home = (props) => {
                     <h1>Pacific North West Photography</h1>
                 </div>
                 <div className="gallery-prompt">
-                    <div className="gallery-text">
+                    <div className="prompt-text">
                         <h2>See More</h2>
                     </div>
-                    <div className="gallery-image">
+                    <div className="prompt-image">
                         <h2>#</h2>
                     </div>
                 </div>
