@@ -5,12 +5,14 @@ import Nav from "./components/Nav"
 import Home from "./components/Home"
 import Footer from "./components/Footer"
 import Blog from "./components/Blog"
+import Gallery from "./components/Gallery"
 
 function App() {
   return (
     <div>
       <Nav />
-      <Home />
+      <Gallery />
+      {/* <Home /> */}
       <Footer />
     </div>
   );

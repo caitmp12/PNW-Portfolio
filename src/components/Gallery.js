@@ -4,11 +4,13 @@ import { LInk } from "react-router-dom"
 const Gallery = (props) => {
     return (
         <div>
-            <h1>Comming Soon</h1>
-            <div>Filter goes here</div>
-            <div className="gallery-wall">
-                <div>Image placeholder</div>
-            </div>
+            <section>
+                <main>
+                    <div className="gallery-wall">
+                        <div className="gallery-item">image placeholder</div>
+                    </div>
+                </main>
+            </section>
         </div>
     )
 }
