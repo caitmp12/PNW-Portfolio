@@ -77,3 +77,20 @@ body {
 .contact {
   border: black solid 1px; 
 }
+
+/* Gallery CSS */
+    /* classes */
+
+.gallery-wall {
+  display: flex;
+  border: 1px solid black; 
+  margin-left: 10%;
+  margin-right: 10%;
+}    
+
+.gallery-item {
+  border: 1px solid black; 
+  padding: 20px;
+  font-size: 27px;
+  text-align: center;
+}

@@ -8,6 +8,14 @@ const Gallery = (props) => {
                 <main>
                     <div className="gallery-wall">
                         <div className="gallery-item">image placeholder</div>
+                        <div className="gallery-item">image placeholder</div>
+                        <div className="gallery-item">image placeholder</div>
+                        <div className="gallery-item">image placeholder</div>
+                        <div className="gallery-item">image placeholder</div>
+                        <div className="gallery-item">image placeholder</div>
+                        <div className="gallery-item">image placeholder</div>
+                        <div className="gallery-item">image placeholder</div>
+                        <div className="gallery-item">image placeholder</div>
                     </div>
                 </main>
             </section>
