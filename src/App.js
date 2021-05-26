@@ -11,8 +11,8 @@ function App() {
   return (
     <div>
       <Nav />
-      <Gallery />
-      {/* <Home /> */}
+      {/* <Gallery /> */}
+      <Home />
       <Footer />
     </div>
   );
